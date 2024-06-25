@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jjarokergc.github.io/sitemap.xml
